@@ -1,0 +1,16 @@
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.deps.json
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.runtimeconfig.json
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.runtimeconfig.dev.json
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.dll
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.csprojAssemblyReference.cache
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.RazorAssemblyInfo.cache
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.RazorAssemblyInfo.cs
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.AssemblyInfoInputs.cache
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.AssemblyInfo.cs
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.RazorTargetAssemblyInfo.cache
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.pdb
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.dll
+D:\Computer-Engineering\Project\workspace\dotnet-mvc\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.pdb
