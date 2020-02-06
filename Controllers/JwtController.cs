@@ -37,8 +37,8 @@ namespace JwtApplication.Controllers
 
             var claims = new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Email, user.Email),
-                new Claim(JwtRegisteredClaimNames.Sub, user.Name),
+                new Claim(JwtRegisteredClaimNames.Email, u.Email),
+                new Claim(JwtRegisteredClaimNames.Sub, u.Name),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
