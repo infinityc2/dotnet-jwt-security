@@ -53,6 +53,7 @@ namespace JwtApplication
                     ClockSkew = TimeSpan.Zero
                 };
             });
+            services.AddCors();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -68,7 +69,13 @@ namespace JwtApplication
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-            app.UseAuthentication();
+            app.UseCors(options =>
+            {
+                options.AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+            });
+            app.UseAuthentication();         
             app.UseHttpsRedirection();
             app.UseMvc();
         }
